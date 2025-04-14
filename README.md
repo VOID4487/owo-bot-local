@@ -1,8 +1,5 @@
 # OwO Bot
-
-[![Discord Bots](https://discordbots.org/api/widget/status/408785106942164992.svg)](https://discordbots.org/bot/408785106942164992) [![Discord Bots](https://discordbots.org/api/widget/servers/408785106942164992.svg)](https://discordbots.org/bot/408785106942164992) [![Discord Bots](https://discordbots.org/api/widget/lib/408785106942164992.svg)](https://discordbots.org/bot/408785106942164992)
-
-Here are the codes for OwO Bot! Feel free to submit an issue or open a pull request!
+uh yeah this is a fork of the official owobot repo and I'm trying the best of ability to put up patches and scour up hardcoded configs to try and tweak them and run this bot locally. once i have a bare metal working version with local db setup , I'll post the steps and stuff to the official repo's issues. wish me luck!
 
 ## Self hosting
 
